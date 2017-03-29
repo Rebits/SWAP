@@ -21,7 +21,7 @@
 
 
 
-*Ejercicio 2.2 *
+*Ejercicio 2.2*
 
 **PM2**
 
@@ -41,7 +41,7 @@ Servidor de aplicaciones que permite crear aplicaciones en Java con alta disponi
 
 *http://wildfly.org/*
 
-*Ejercicio 2.3 *
+*Ejercicio 2.3*
 
 Existen numerosas herramientas para analizar el nivel de carga. Algunas de las más importantes son:
 
@@ -62,7 +62,7 @@ Similar a top pero incluye una barra de acciones que permiten la busqueda de pro
 Monit es una herramienta de código abierto para la administración y comprobación de procesos del servidor además de  archivos, directorios y los servicios como Apache, Nginx, MySQL, FTP, SSH, Sendmail entre otros.
  
 
-*Ejercicio 2.4 *
+*Ejercicio 2.4*
 
 Software:
 
